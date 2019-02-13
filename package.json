@@ -1,0 +1,11 @@
+{
+    "name": "sfpromise",
+    "version": "0.0.1",
+    "description": "Promises/A+",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "node test/index.js"
+    },
+    "author": "thinkzhan",
+    "license": "ISC"
+}
